@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stations>
+    <station id="48">
+        <name>patna railway station</name>
+        <city>bihar</city>
+        <state>patna</state>
+        <latitude>25.94589</latitude>
+        <longitude>-80.203683</longitude>
+    </station>
+    <station id="50">
+        <name>Ghy</name>
+        <city>yyy</city>
+        <state>xxx</state>
+        <latitude>25.94589</latitude>
+        <longitude>-80.203683</longitude>
+    </station>
+</stations>
